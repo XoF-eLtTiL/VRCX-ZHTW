@@ -1026,7 +1026,7 @@
                 "platform": "平台",
                 "last_visited": "上次拜訪",
                 "visit_count": "我拜訪次數",
-                "time_spent": "停留時長",
+                "time_spent": "使用時間",
                 "accuracy_notice": "本地資料庫的資料可能不精確"
             },
             "json": {
